@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Skellymwon
-- 👀 I’m interested in creating web pages,Games etc
+- 👀 I’m interested in creating web pages
 - 🌱 I’m currently learning HTML,CSS & JavaScript
 - just a beginner on coding
